@@ -12,9 +12,15 @@ CSS3模块:
 
 ## 组件化
 
-> CSS in JS
+> 样式化组件(styled component)
+
+`CSS in JS`库：
 
 [styled-jsx](https://www.npmjs.com/package/styled-jsx)
+
+[emotion](https://emotion.sh/docs/introduction)
+
+全局样式和局部样式
 
 ## 模块化
 
