@@ -1,12 +1,38 @@
-## Hi there 👋
+# CSS开发范式
 
-<!--
+## 原子化
 
-**Here are some ideas to get you started:**
+CSS3模块:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 选择器
+- 盒模型
+- 背景和边框
+- 文字效果
+- 2D/3D变换
+
+## 组件化
+
+> CSS in JS
+
+[styled-jsx](https://www.npmjs.com/package/styled-jsx)
+
+## 模块化
+
+> CSS Module
+
+### OOCSS
+
+- 分离结构和皮肤
+- 分离容器和内容
+
+### SMACSS
+
+- 基础（Base）
+- 布局（Layout）
+- 模块（Module）
+- 状态（State）
+- 主题（Theme）
+
+### BEM
+
+### ACSS
